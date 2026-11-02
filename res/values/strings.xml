@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">打卡状态</string>
+    <string name="settings_title">设置</string>
+    <string name="widget_desc">显示企业微信上下班打卡状态</string>
+    <string name="a11y_desc">用于自动打开企业微信打卡页并读取上下班打卡状态（仅在读取时短暂使用）</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 仅允许向自有节假日数据服务器使用明文 HTTP；其余流量仍默认禁止明文 -->
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="false">81.70.63.171</domain>
+    </domain-config>
+</network-security-config>
